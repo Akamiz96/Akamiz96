@@ -15,20 +15,20 @@
 
 # 🧑🏽‍💻 A little about me 🧑🏽‍💻
 
-<pre lang=java>
-public class Akamiz{
-    String name = "Alejandro \"Akamiz\" Castro Martinez";
-    String located_in = "Bogota, Colombia";
-    String current_job = "Professor Pontificia Universidad Javeriana";
-    String company = "Pontificia Universidad Javeriana";
+```json
+{
+    "name":"Alejandro \"Akamiz\" Castro Martinez",
+    "located_in":"Bogota, Colombia",
+    "current_job":"Professor Pontificia Universidad Javeriana",
+    "company":"Pontificia Universidad Javeriana",
     
-    String [] education = {
-        "Master DevOps & Cloud Computing",
-        "Electronics Engineer",
-        "Software Engineer"
-    };
+    "education":{
+        "Master":"Master DevOps & Cloud Computing",
+        "pregrado_2":"Electronics Engineer",
+        "pregrado_1":"Software Engineer"
+    },
     
-    String [] field_of_interest = {
+    "field_of_interest":[
         "Cloud Computing",
         "DevOps",
         "Backend Development",
@@ -36,29 +36,29 @@ public class Akamiz{
         "FPGA Development",
         "Embedded Systems",
         "Networking"
-    };
+    ],
 
-    String [] technical_background = {
+    "technical_background":[
         "Professor",
         "Software Engineering Intern",
         "Student Companion",
         "Member of the Student Academic Committee"
-    };
+    ],
 
-    String [] current_learning = {
+    "current_learning":[
         "Docker",
         "Kubernetes",
         "Amazon Web Services (AWS)",
         "Blockchain"
-    };
+    ],
 
-    String [] hobbies = {
+    "hobbies":[
         "Robotics",
         "Videogames",
         "Esports"
-    };
+    ],
 }
-</pre>
+```
 
 ---
 
