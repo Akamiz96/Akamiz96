@@ -1,35 +1,42 @@
 ![Alejandro Castro Banner](./assets/Banner%20Alejandro%20Castro%20Martinez.png)
 
 ### 👋 Hi there 👋, my name Alejandro Castro Martinez
-#### My nickname is *Akamiz* that comes from the initials of my name. 
+
+#### My nickname is _Akamiz_ that comes from the initials of my name.
+
 ---
+
 <!-- Taken from: https://github.com/Ileriayo/markdown-badges -->
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Akamiz_96)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akamiz96/)
 
-----
+---
+
 # 🧑🏽‍💻 A little about me 🧑🏽‍💻
+
 ```yaml
 name: Alejandro "Akamiz" Castro Martinez
 located_in: Bogotá, Colombia
 current_job: Professor Pontificia Universidad Javeriana
 company: Pontificia Universidad Javeriana
 
-education: 
+education:
 [
     "Master DevOps & Cloud Computing",
     "Electronics Engineer",
     "Software Engineer"
 ]
 
-field_of_interest: 
+field_of_interest:
 [
     "Cloud Computing",
     "DevOps",
     "Backend Development",
     "Data Science",
     "FPGA Development",
-    "Embedded Systems"
+    "Embedded Systems",
+    "Networking"
 ]
 
 technical_background:
@@ -40,7 +47,7 @@ technical_background:
     "Member of the Student Academic Committee"
 ]
 
-current_learning: 
+current_learning:
 [
     "Docker",
     "Kubernetes",
@@ -48,30 +55,34 @@ current_learning:
     "Blockchain"
 ]
 
-hobbies: 
+hobbies:
 [
-   "Robotics", 
-   "Videogames", 
+   "Robotics",
+   "Videogames",
    "Esports"
 ]
 ```
+
 ---
+
 ## Education
-👨‍🎓 Master DevOps & Cloud Computing 
+
+👨‍🎓 Master DevOps & Cloud Computing
 
 - @ [Three Points: The School For Digital Business](https://www.threepoints.com/master-devops-cloud-computing) 👨‍🎓 - _Currently studying_.
 
-🎓 Electronics Engineer 
+🎓 Electronics Engineer
 
--   @ [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/carrera-ingenieria-electronica) 🎓
+- @ [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/carrera-ingenieria-electronica) 🎓
 
-
-🎓 Software Engineer 
+🎓 Software Engineer
 
 - @ [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/carrera-ingenieria-de-sistemas) 🎓
 
 ---
+
 # 🚀 Some tools I have used and learned 🚀
+
 <!--
     Icons taken from: https://devicon.dev/
 -->
@@ -116,9 +127,18 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
 </p>
 
----           
+---
+
+<!--
+    Uses snk to generate a GIF every 12 hours
+    More information: https://github.com/Platane/snk
+-->
 
 ![Snake animation](https://github.com/Akamiz96/Akamiz96/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kstro96&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kstro96&cover_image=true&theme=default&show_offline=true&bar_color=00ff00&bar_color_cover=true)]]
 
 <!--
 **Akamiz96/Akamiz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
