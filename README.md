@@ -15,7 +15,7 @@
 
 # 🧑🏽‍💻 A little about me 🧑🏽‍💻
 
-```java
+<pre lang=java>
 public class Akamiz{
     String name = "Alejandro \"Akamiz\" Castro Martinez";
     String located_in = "Bogota, Colombia";
@@ -58,7 +58,7 @@ public class Akamiz{
         "Esports"
     };
 }
-```
+</pre>
 
 ---
 
