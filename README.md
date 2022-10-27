@@ -15,52 +15,49 @@
 
 # 🧑🏽‍💻 A little about me 🧑🏽‍💻
 
-```yaml
-name: Alejandro "Akamiz" Castro Martinez
-located_in: Bogotá, Colombia
-current_job: Professor Pontificia Universidad Javeriana
-company: Pontificia Universidad Javeriana
+```java
+public class Akamiz{
+    String name = "Alejandro \"Akamiz\" Castro Martinez";
+    String located_in = "Bogota, Colombia";
+    String current_job = "Professor Pontificia Universidad Javeriana";
+    String company = "Pontificia Universidad Javeriana";
+    
+    String [] education = {
+        "Master DevOps & Cloud Computing",
+        "Electronics Engineer",
+        "Software Engineer"
+    };
+    
+    String [] field_of_interest = {
+        "Cloud Computing",
+        "DevOps",
+        "Backend Development",
+        "Data Science",
+        "FPGA Development",
+        "Embedded Systems",
+        "Networking"
+    };
 
-education:
-[
-    "Master DevOps & Cloud Computing",
-    "Electronics Engineer",
-    "Software Engineer"
-]
+    String [] technical_background = {
+        "Professor",
+        "Software Engineering Intern",
+        "Student Companion",
+        "Member of the Student Academic Committee"
+    };
 
-field_of_interest:
-[
-    "Cloud Computing",
-    "DevOps",
-    "Backend Development",
-    "Data Science",
-    "FPGA Development",
-    "Embedded Systems",
-    "Networking"
-]
+    String [] current_learning = {
+        "Docker",
+        "Kubernetes",
+        "Amazon Web Services (AWS)",
+        "Blockchain"
+    };
 
-technical_background:
-[
-    "Professor",
-    "Software Engineering Intern",
-    "Student Companion",
-    "Member of the Student Academic Committee"
-]
-
-current_learning:
-[
-    "Docker",
-    "Kubernetes",
-    "Amazon Web Services (AWS)",
-    "Blockchain"
-]
-
-hobbies:
-[
-   "Robotics",
-   "Videogames",
-   "Esports"
-]
+    String [] hobbies = {
+        "Robotics",
+        "Videogames",
+        "Esports"
+    };
+}
 ```
 
 ---
