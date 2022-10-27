@@ -3,8 +3,9 @@
 ### 👋 Hi there 👋, my name Alejandro Castro Martinez
 #### My nickname is *Akamiz* that comes from the initials of my name. 
 ---
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Akamiz_96)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/akamiz96/)
+<!-- Taken from: https://github.com/Ileriayo/markdown-badges -->
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Akamiz_96)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akamiz96/)
 
 ----
 # 🧑🏽‍💻 A little about me 🧑🏽‍💻
@@ -56,85 +57,69 @@ hobbies:
 ```
 ---
 ## Education
-👨‍🎓 Master DevOps & Cloud Computing @ [Three Points: The School For Digital Business](https://www.threepoints.com/master-devops-cloud-computing) 👨‍🎓 - _Currently studying_.
+👨‍🎓 Master DevOps & Cloud Computing 
 
-🎓 Electronics Engineer @ [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/carrera-ingenieria-electronica) 🎓
+- @ [Three Points: The School For Digital Business](https://www.threepoints.com/master-devops-cloud-computing) 👨‍🎓 - _Currently studying_.
+
+🎓 Electronics Engineer 
+
+-   @ [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/carrera-ingenieria-electronica) 🎓
 
 
-🎓 Software Engineer @ [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/carrera-ingenieria-de-sistemas) 🎓
+🎓 Software Engineer 
+
+- @ [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/carrera-ingenieria-de-sistemas) 🎓
 
 ---
 # 🚀 Some tools I have used and learned 🚀
+<!--
+    Icons taken from: https://devicon.dev/
+-->
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="45" height="45"/>
-          
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="45" height="45"/>
-
-
+<!-- C++ -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width="45" height="45"/>
-    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-                  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
-          
-      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
-
-
+<!-- C -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+<!-- Embedded C -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="45" height="45"/>
+<!-- Arduino -->        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="45" height="45"/>
+<!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45"/>
-
+<!-- Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="45"/>
+<!-- HTML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<!-- CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<!-- Javascript --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>  
+<!-- Docker -->  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
+<!-- Kubernetes --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45" height="45"/>
+<!-- Git --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<!-- Amazon Web Service (AWS) --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+<!-- Android -->        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="45" height="45"/>
+<!-- Jupyter -->              
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/>
+<!-- Matlab --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45"/>
+<!-- MySQL --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+<!-- PostgreSQL -->         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+<!-- PHP --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
 </p>
 
----
-          
-              
-          
-          
-          
+---           
 
+![Snake animation](https://github.com/Akamiz96/Akamiz96/blob/output/github-contribution-grid-snake.svg)
 
-          
-          
-          
-          
-          
 <!--
 **Akamiz96/Akamiz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
