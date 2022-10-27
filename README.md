@@ -55,7 +55,8 @@
     "hobbies":[
         "Robotics",
         "Videogames",
-        "Esports"
+        "Esports",
+        "Music"
     ],
 }
 ```
@@ -134,6 +135,8 @@
 ![Snake animation](https://github.com/Akamiz96/Akamiz96/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+# 🎧 Music that I am listening 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kstro96&cover_image=true&theme=default&show_offline=true&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kstro96&redirect=true)
 
