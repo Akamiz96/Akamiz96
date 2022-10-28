@@ -60,10 +60,9 @@
     ],
 }
 ```
-
 ---
 <details>
-<summary><h1>Education</h1></summary>
+<summary>👨‍🎓<h1>Education</h1>👨‍🎓</summary>
 
 👨‍🎓 Master DevOps & Cloud Computing
 
@@ -80,7 +79,6 @@
 </details>
 
 ---
-
 # 🚀 Some tools I have used and learned 🚀
 
 <!--
