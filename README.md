@@ -1,6 +1,6 @@
 ![Alejandro Castro Banner](./assets/Banner%20Alejandro%20Castro%20Martinez.png)
 
-### 👋 Hi there 👋, my name Alejandro Castro Martinez
+### 👋 Hi there 👋
 
 #### My nickname is _Akamiz_ that comes from some letters of my name.
 
@@ -62,8 +62,8 @@
 ```
 
 ---
-
-## Education
+<details>
+<summary><h1>Education</h1></summary>
 
 👨‍🎓 Master DevOps & Cloud Computing
 
@@ -76,6 +76,8 @@
 🎓 Software Engineer
 
 - @ [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/carrera-ingenieria-de-sistemas) 🎓
+
+</details>
 
 ---
 
