@@ -137,9 +137,11 @@
 ---
 
 # 🎧 Music that I am listening 🎧
+<p align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kstro96&cover_image=true&theme=default&show_offline=true&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kstro96&redirect=true)
 
+</p>
 <!--
 **Akamiz96/Akamiz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
