@@ -1,7 +1,7 @@
 name: Generate Datas
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # At minute 0 on every day-of-month. Taken from: https://crontab.guru/#0_*_*/1_*_*
+    - cron: "0 * */1 * *"
   workflow_dispatch:
 jobs:
   build:

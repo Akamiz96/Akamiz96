@@ -2,7 +2,7 @@
 
 ### 👋 Hi there 👋, my name Alejandro Castro Martinez
 
-#### My nickname is _Akamiz_ that comes from the initials of my name.
+#### My nickname is _Akamiz_ that comes from some letters of my name.
 
 ---
 
@@ -84,7 +84,7 @@
 <!--
     Icons taken from: https://devicon.dev/
 -->
-<p align="left">
+<p align="center">
 <!-- C++ -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <!-- C -->
@@ -131,8 +131,11 @@
     Uses snk to generate a GIF every 12 hours
     More information: https://github.com/Platane/snk
 -->
+<p align="center">
 
 ![Snake animation](https://github.com/Akamiz96/Akamiz96/blob/output/github-contribution-grid-snake.svg)
+
+</p>
 
 ---
 
